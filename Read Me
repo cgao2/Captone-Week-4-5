@@ -1,1 +1,6 @@
-The file is organized in different parts. Please refer Capstone week 4 for more details.
+The file is organized in different parts. 
+The first file is 'Capstpne project_initial data process':Visualized City of Edmonton shaped in different boundaries.
+Second file is 'Capstone project_crimical rate in each Ward':Present the Voliation type, incident number by neighbourhoods.
+Third file is 'Capstone project_population gender&age':Present the population related information of City of Edmonton.
+Fourth file is 'Capstone project_consumption level':Evaluate the selected neighbourhood using different parameters.
+Fifth file is 'Capstone_venues in edmonton':Explore venues of selected neighbourhood by Foursquare, Zomato, Yelp API explorer.
